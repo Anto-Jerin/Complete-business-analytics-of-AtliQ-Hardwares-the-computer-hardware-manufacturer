@@ -36,4 +36,30 @@ They also sell products directly to consumers through their own physical and e-c
 - Potentially wasted warehouse capacity
 
 
+## Project Deliverables: 
 
+### 1. Finance View
+  - P&L Statement Overview
+  - P&L metrics across countries, products, and customers
+  - Key metrics trends by months
+
+### 2. Sales View
+  - Top/Bottom Customers along with Key Metrics.
+  - Performance matrix by Net Sales and Gross Margin
+
+### 3. Marketing View
+  - Top/Bottom Products along with Key Metrics.
+  - Performance matrix by Net Sales, (Gross Margin or Net Profit) and products.
+
+
+### 4. Supply Chain View
+  - Key Metrics by customers and products
+  - Forecast Accuracy and Net Error trends by months
+
+
+### 5. Executive View
+  - Key Metrics by sub zone
+  - Key Metrics trends by Fiscal Year
+  - Market Share trends vs competition
+  - Top Products and Customers
+  
