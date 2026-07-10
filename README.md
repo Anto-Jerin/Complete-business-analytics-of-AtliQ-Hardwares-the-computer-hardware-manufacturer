@@ -76,9 +76,26 @@ Make swift and informed decisions.
 
 
 
-Tech Stack
-Skills Learned
+## Tech Stack
 
+ - MySql
+ - PowerQuery
+ - 
+  
+## Skills Learned
 
+ - MySQL Database
+  - ETL
+  - Intermediate Data Modelling (Custom tables for dynamic measures)
+  - Data Enrichment ( Created main fact table with data from supporting fact table)
+  - Advanced Power Query (Query Folding)
+  - Proficiency in including supplementary data into the existing model
+  - Data model size and load time optimization (Not loading redundant tables, calculated columns only for measures that cannot be reconstructed)
+  - Create a date table with a custom fiscal year cycle
+  - Advanced Dax
+  - Parameterized visuals (Top n% by selected measure, change metric in charts based on buttons)
+  - Sales, Marketing, Finance & Supply Chain metrics
+  - Scheduled data refreshes
+  - Deploying Power BI service
 
 
