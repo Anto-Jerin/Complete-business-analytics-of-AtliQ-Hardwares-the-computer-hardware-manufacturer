@@ -22,26 +22,28 @@ Make swift and informed decisions.
 
 ## Project Deliverables: 
 
-### 1. Finance View
+### [Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiNzVjMmZiZjQtNzNjZS00YjViLWI5NjAtNTBhZTI0MDEyMGYxIiwidCI6IjM0YzNkMTRlLTljOWUtNDc5Ni05YTI1LWJjMDA0OWM0NmJiNSJ9)
+
+### 1. [Finance View](https://github.com/Anto-Jerin/Complete-business-analytics-of-AtliQ-Hardwares-the-computer-hardware-manufacturer/blob/main/Reports/Financial%20View.pdf)
   - P&L Statement Overview
   - P&L metrics across countries, products, and customers
   - Key metrics trends by months
 
-### 2. Sales View
+### 2. [Sales View](https://github.com/Anto-Jerin/Complete-business-analytics-of-AtliQ-Hardwares-the-computer-hardware-manufacturer/blob/main/Reports/Sales%20View.pdf)
   - Top/Bottom Customers along with Key Metrics.
   - Performance matrix by Net Sales and Gross Margin
 
-### 3. Marketing View
+### 3. [Marketing View](https://github.com/Anto-Jerin/Complete-business-analytics-of-AtliQ-Hardwares-the-computer-hardware-manufacturer/blob/main/Reports/Marketing%20View.pdf)
   - Top/Bottom Products along with Key Metrics.
   - Performance matrix by Net Sales, (Gross Margin or Net Profit) and products.
 
 
-### 4. Supply Chain View
+### 4. [Supply Chain View](https://github.com/Anto-Jerin/Complete-business-analytics-of-AtliQ-Hardwares-the-computer-hardware-manufacturer/blob/main/Reports/Supply%20Chain%20View.pdf)
   - Key Metrics by customers and products
   - Forecast Accuracy and Net Error trends by months
 
 
-### 5. Executive View
+### 5. [Executive View](https://github.com/Anto-Jerin/Complete-business-analytics-of-AtliQ-Hardwares-the-computer-hardware-manufacturer/blob/main/Reports/Executive%20View.pdf)
   - Key Metrics by sub zone
   - Key Metrics trends by Fiscal Year
   - Market Share trends vs competition
