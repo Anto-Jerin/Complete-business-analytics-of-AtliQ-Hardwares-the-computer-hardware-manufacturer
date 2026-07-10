@@ -76,6 +76,9 @@ Make swift and informed decisions.
 
 
 
+Tech Stack
+Skills Learned
+
 
 
 
