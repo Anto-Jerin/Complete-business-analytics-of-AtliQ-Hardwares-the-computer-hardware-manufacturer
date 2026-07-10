@@ -22,8 +22,13 @@ Make swift and informed decisions.
 
 ## Project Deliverables: 
 
-### [Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiNzVjMmZiZjQtNzNjZS00YjViLWI5NjAtNTBhZTI0MDEyMGYxIiwidCI6IjM0YzNkMTRlLTljOWUtNDc5Ni05YTI1LWJjMDA0OWM0NmJiNSJ9)
 
+<img width="64" height="64" alt="image" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" /> 
+
+#### [Interactive PBI Report](https://app.powerbi.com/view?r=eyJrIjoiNzVjMmZiZjQtNzNjZS00YjViLWI5NjAtNTBhZTI0MDEyMGYxIiwidCI6IjM0YzNkMTRlLTljOWUtNDc5Ni05YTI1LWJjMDA0OWM0NmJiNSJ9)
+
+
+&nbsp;
 ### 1. [Finance View](https://github.com/Anto-Jerin/Complete-business-analytics-of-AtliQ-Hardwares-the-computer-hardware-manufacturer/blob/main/Reports/Financial%20View.pdf)
   - P&L Statement Overview
   - P&L metrics across countries, products, and customers
