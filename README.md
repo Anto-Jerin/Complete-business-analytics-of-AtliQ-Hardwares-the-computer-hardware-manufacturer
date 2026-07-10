@@ -14,6 +14,14 @@ They also sell products directly to consumers through their own physical and e-c
 
 ### Business Problems
 
+The decision to expand into Latin America yielded huge losses because management made decisions based on surveys and intuition.  
+Move away from fragmented Excel sheets onto a unified analytics workflow, with a single source of truth.
+Incorporate a solution that's scalable to match the company's growth.
+Make swift and informed decisions.  
+
+
+Move away from simple survey based information and intuition based decision making, which led to a huge loss in Latin America 
+
 #### 1. Lack of insights on the 
   - Growth potential.
   - Pragmatic and competent targets for companies and countries
