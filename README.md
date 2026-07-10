@@ -14,33 +14,10 @@ They also sell products directly to consumers through their own physical and e-c
 
 ### Business Problems
 
-The decision to expand into Latin America yielded huge losses because management made decisions based on surveys and intuition.  
-Move away from fragmented Excel sheets onto a unified analytics workflow, with a single source of truth.
-Incorporate a solution that's scalable to match the company's growth.
+The decision to expand into Latin America yielded huge losses because management made decisions based on surveys and intuition.    
+Move away from fragmented Excel sheets onto a unified analytics workflow, with a single source of truth.  
+Incorporate a solution that's scalable to match the company's growth.  
 Make swift and informed decisions.  
-
-
-Move away from simple survey based information and intuition based decision making, which led to a huge loss in Latin America 
-
-#### 1. Lack of insights on the 
-  - Growth potential.
-  - Pragmatic and competent targets for companies and countries
-  - Cost-effectiveness of operations like determining  
-&nbsp;
-     > - pre/post invoice discounts
-     > - promotional campaigns
-     > - performance bonuses
-     > - placement fees
-  
-
-#### 2. Lack of Single Source of Truth
-  - Conflicting numbers in meetings
-  - Cross-departmental and cross-regional efforts are 
-  - Impossible to ensure data completeness at the global executive level (Which led to heavy losses in expansion attempts in Latin America)  
-
-#### 3. Unsure Factory production Rates & warehousing usage
-- Can't determine factory production rates with certainty
-- Potentially wasted warehouse capacity
 
 
 ## Project Deliverables: 
@@ -70,3 +47,35 @@ Move away from simple survey based information and intuition based decision maki
   - Market Share trends vs competition
   - Top Products and Customers
   
+## Business Objectives:
+  - Incorporate informed decision-making.
+  - Move away from Excel Sheets.
+  - Have a single source of truth for all global operations.
+
+## Operational Objectives:
+
+#### 1. Insights on the 
+  - Growth potential.
+  - Pragmatic and competent targets for companies and countries
+  - Cost-effectiveness of operations like determining  
+&nbsp;
+     > - pre/post invoice discounts
+     > - promotional campaigns
+     > - performance bonuses
+     > - placement fees
+  
+
+#### 2. Need for Single Source of Truth
+  - Conflicting numbers in meetings
+  - Cross-departmental and cross-regional efforts are 
+  - Impossible to ensure data completeness at the global executive level (Which led to heavy losses in expansion attempts in Latin America)  
+
+#### 3. Address Uncertainty in Factory production Rates & warehousing usage
+  - Can't determine factory production rates with certainty
+  - Potentially wasted warehouse capacity
+
+
+
+
+
+
