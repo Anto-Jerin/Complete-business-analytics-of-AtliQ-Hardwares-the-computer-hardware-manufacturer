@@ -15,11 +15,10 @@ They also sell products directly to consumers through their own physical and e-c
 ### Business Problems
 
 #### 1. Lack of insights on the 
-  
   - Growth potential.
   - Pragmatic and competent targets for companies and countries
-  - Cost-effectiveness of operations like determining
-       
+  - Cost-effectiveness of operations like determining  
+&nbsp;
      > - pre/post invoice discounts
      > - promotional campaigns
      > - performance bonuses
