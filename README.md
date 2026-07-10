@@ -80,11 +80,13 @@ Make swift and informed decisions.
 
  - MySql
  - PowerQuery
- - 
+ - Dax and Dax Studio
+ - Advanced report design
+ - Microsoft Fabric
   
 ## Skills Learned
 
- - MySQL Database
+  - MySQL Database
   - ETL
   - Intermediate Data Modelling (Custom tables for dynamic measures)
   - Data Enrichment ( Created main fact table with data from supporting fact table)
