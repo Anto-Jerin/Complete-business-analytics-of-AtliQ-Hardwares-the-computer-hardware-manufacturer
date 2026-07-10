@@ -19,6 +19,7 @@ They also sell products directly to consumers through their own physical and e-c
   - Growth potential.
   - Pragmatic and competent targets for companies and countries
   - Cost-effectiveness of operations like determining
+       
      > - pre/post invoice discounts
      > - promotional campaigns
      > - performance bonuses
