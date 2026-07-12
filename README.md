@@ -62,7 +62,7 @@ Make swift and informed decisions.
 ## Operational Objectives:
 
 #### 1. Insights on the 
-  - Growth potential.
+  - Potential and feasible growth.
   - Pragmatic and competent targets for companies and countries
   - Cost-effectiveness of operations like determining  
 &nbsp;
